@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "386029023092",
+    "firebase_url": "https://tinkoffchat.firebaseio.com",
+    "project_id": "tinkoffchat",
+    "storage_bucket": "tinkoffchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386029023092:android:ef4eab3c1f4ef718",
+        "android_client_info": {
+          "package_name": "com.karpov.tinkoffchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386029023092-ivdhl29aig8qcpi73l45ne170rat7nnb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.karpov.tinkoffchat",
+            "certificate_hash": "4274771f86df11fc693c95d48753fa7ddc6e83a4"
+          }
+        },
+        {
+          "client_id": "386029023092-jsmc4omk5326gkm4cerla66ckaql7kli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsy-pHMw9sEWbLCUatnfLxkoiBH3_S7a0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386029023092-jsmc4omk5326gkm4cerla66ckaql7kli.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
