@@ -19,6 +19,7 @@ android {
         }
     }
 
+    /* // пример создание разных версий билда
     productFlavors {
         main {
             applicationId "com.karpov.tinkoffchat"
@@ -43,7 +44,7 @@ android {
             applicationIdSuffix ".full"
             versionNameSuffix "-full"
         }
-    }
+    }*/
 }
 
 dependencies {
